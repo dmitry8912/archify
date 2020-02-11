@@ -1,0 +1,17 @@
+{
+  "directories": [
+    "/docker",
+    "/home/dmitry",
+    "/etc/openvpn",
+    "/etc/named.conf",
+    "/var/named"
+  ],
+  "remote": {
+    "server_address": "",
+    "directory": "/home/backup/north/"
+  },
+  "slack": {
+    "webhook": "https://hooks.slack.com/services/",
+    "author_name": "North"
+  }
+}
